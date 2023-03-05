@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(77,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(77,49): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(105,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(155,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(158,27): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(195,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(196,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(199,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Daniel Zaharan\source\repos\Sudoku\main.cpp(200,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\Daniel Zaharan\source\repos\Sudoku\Debug\Sudoku.exe
